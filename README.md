@@ -1,6 +1,8 @@
 # GetCP
 A lightweight tool to get ACP or OEMCP
 
+**ONLY SUPPORT WINDOWS**
+
 GetCP, Get Code Page
 
 ```
